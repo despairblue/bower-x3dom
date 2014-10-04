@@ -5,7 +5,11 @@
     "https://github.com/x3dom/x3dom/blob/master/AUTHORS"
   ],
   "description": "A framework for integrating and manipulating X3D scenes as HTML5/DOM elements.",
-  "main": ["x3dom.js", "x3dom.css", "x3dom.swf"],
+  "main": [
+    "./x3dom.js",
+    "./x3dom.css",
+    "./x3dom.swf"
+  ],
   "moduleType": [
     "globals"
   ],
